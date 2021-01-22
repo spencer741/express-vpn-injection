@@ -1,5 +1,5 @@
 ## ExpressVpnInjection
-JavScript that Express VPN injects via Browser Extension 
+JavaScript that Express VPN injects via Browser Extension 
 
 [Extension Source Code](https://github.com/expressvpn/expressvpn_browser_extension)
 
